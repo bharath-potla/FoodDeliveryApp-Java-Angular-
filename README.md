@@ -1,4 +1,4 @@
-# Basic_FoodDeliveryApp
+# FoodDeliveryApp
 
 During my bachelor's at SJB Institute of Technology, Bangalore, I worked on a basic food ordering system as a project to explore full-stack development concepts Angular and Java Spring Boot. This project was a hands-on experience in building user authentication, database management, and real-time updates.
 
